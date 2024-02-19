@@ -1,0 +1,11 @@
+import time
+import pyotp
+
+totp = pyotp.TOTP('My2factorAppHere')
+otp = totp.now()
+print(otp)
+
+#input_code = input("Enter 2FA Code:")
+
+#totp.verify(input_code)
+

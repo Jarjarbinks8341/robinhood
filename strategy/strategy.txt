@@ -1,0 +1,8 @@
+1. Starts from the basic AIP (Automatic Investment Plan)
+	a. monthly load fund from bank account (Charge Arsenal) 
+	b. Setup a list of stocks / EFTs for AIP. (QQQ, VOO, BRKB) 
+	c. Split the funds equally on the candidates and to do weekly buy
+2. Check the MA50 and MA200 to see if any cross happened. (Use this to determine if it's a bull or bear.
+3. Used the greed / fear index for bias parameter to buy more or less
+
+
